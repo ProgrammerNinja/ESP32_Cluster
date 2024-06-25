@@ -12,4 +12,4 @@ which can be used as a mechanism of communication and integration for cluster an
   - Therefore, the goal of this project was set as: Creating a package, with which we can, in a Celery-Canvas fashion, dispatch tasks to an ESP32 cluster for processing.
   - Creatin our personal Cluster, and will run an simple ai on it.
 
-    <img src="https://github.com/ProgrammerNinja/ESP32_Cluster/blob/main/img/Broccoli_cluster_cover.gif"
+    <img src="https://github.com/ProgrammerNinja/ESP32_Cluster/blob/main/img/Broccoli_cluster_cover.gif">
